@@ -1,0 +1,88 @@
+
+/* FIRST SECTION */
+
+body {
+	font-family: 'Playfair Display SC', serif;
+}
+
+.first-page-section {
+	background-color: #005542;
+	
+}
+
+.first-page-section .container-fluid {
+	padding-bottom: 22%;
+}
+
+.container-fluid {
+	width:50%;
+	text-align: center;
+}
+
+.imp-title {
+	
+	padding-top: 10%;
+	color:white;
+}
+.imp-title h1 {
+	font-size:60px;
+}
+
+
+.title-button {
+	
+	margin-top: 25%;
+	transition:1s;
+}
+
+/********************* SKILLS SECTION ************************/
+
+
+
+.skills-container {
+	margin: 15% auto 15% auto;
+}
+
+.skill-box h5 {
+	font-weight:700;
+	font-size:25px;
+}
+
+.skills-icon {
+	font-size:70px;
+	transition:1s;
+}
+
+.skills-icon:hover {
+
+	font-size:120px;
+	color:#005542;
+}
+
+/********************* CAROUSEL SECTION ************************/
+
+.carousel-section {
+	background-color:#005542;
+}
+
+.carousel-inner {
+	padding: 15%;
+	border: 1px solid;
+	
+}
+
+.carousel-item{
+	color:white;
+	
+}
+
+.carousel-item img {
+
+	border-radius:100%;
+	height:100px;
+	margin:10px;
+}
+
+
+
+
